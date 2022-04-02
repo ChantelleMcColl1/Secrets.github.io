@@ -41,8 +41,8 @@ a:hover, a:active {
     position: relative;
     top: 610px;
     left: 120px;
-    width: 500px;
-    height: 500px;
+    width: 250px;
+    height: 250px;
     border-radius: 100%;
-    padding:110px;
+    padding: 51px;
 }
