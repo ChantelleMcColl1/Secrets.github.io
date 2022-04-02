@@ -21,16 +21,10 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
     position: relative;
-   
+   left: 50%;
 }
 
 a:hover, a:active {
     background-color: red;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    position: relative;
-  
+ 
   }
