@@ -6,7 +6,7 @@ var specialElementHandlers = {
 };
 
 $('#submit').click(function () {
-    doc.fromHTML($('#d1').html(), 15, 15, {
+    doc.fromHTML($('#print').html(), 15, 15, {
         'width': 170,
             'elementHandlers': specialElementHandlers
     });
