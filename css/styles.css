@@ -40,7 +40,7 @@ a:hover, a:active {
 .t1 {
     position: relative;
     top: 658px;
-    left: 173px;
+    left: 170px;
     transform: translate(-50%, -50%);
     height: 200px;
     width: 150px;
@@ -50,8 +50,8 @@ a:hover, a:active {
 }
 .t2 {   
     position: relative;
-    top: 933px;
-    left: 167px;
+    top: 930px;
+    left: 169px;
     transform: translate(-50%, -50%);
     height: 180px;
     width: 100px;
@@ -65,7 +65,7 @@ a:hover, a:active {
     top: 320px;
     left: 440px;
     transform: translate(-50%, -50%);
-    height: 250px;
+    height: 260px;
     width: 100px;
     border-radius: 150px 0px 0px 0px;
     background-color: rgb(255, 255, 255);
