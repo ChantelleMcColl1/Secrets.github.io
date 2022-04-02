@@ -43,17 +43,17 @@ a:hover, a:active {
     left: 165px;
     transform: translate(-50%, -50%);
     height: 200px;
-    width: 175px;
+    width: 150px;
     border-radius: 150px 150px 0 0;
     background-color: rgb(255, 255, 255);
     padding:28px ;
 }
 .t2 {   
     position: relative;
-    top: 795px;
+    top: 850px;
     left: 170px;
     transform: translate(-50%, -50%);
-    height: 190px;
+    height: 180px;
     width: 100px;
     border-radius: 0px 0px 150px 150px;
     background-color: rgb(255, 255, 255);
