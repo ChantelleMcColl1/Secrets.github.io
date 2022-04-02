@@ -20,7 +20,9 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    position: fixed;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 a:hover, a:active {
