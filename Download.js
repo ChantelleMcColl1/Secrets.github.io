@@ -1,4 +1,5 @@
-var doc = new jsPDF();
+
+var doc = new jsPDF (window.jsPDF = window.jspdf.jsPDF) ;
 var specialElementHandlers = {
     '#print-btn': function (element, renderer) {
         return true;
