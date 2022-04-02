@@ -39,7 +39,7 @@ a:hover, a:active {
   }
 .t1 {
     position: relative;
-    top: 648px;
+    top: 630px;
     left: 170px;
     transform: translate(-50%, -50%);
     height: 200px;
@@ -50,8 +50,8 @@ a:hover, a:active {
 }
 .t2 {   
     position: relative;
-    top: 920px;
-    left: 165px;
+    top: 910px;
+    left: 160px;
     transform: translate(-50%, -50%);
     height: 180px;
     width: 100px;
