@@ -39,19 +39,19 @@ a:hover, a:active {
   }
 .t1 {
     position: relative;
-    top: 660px;
-    left: 160px;
+    top: 658px;
+    left: 165px;
     transform: translate(-50%, -50%);
-    height: 205px;
-    width: 178px;
+    height: 200px;
+    width: 175px;
     border-radius: 150px 150px 0 0;
     background-color: rgb(255, 255, 255);
-    padding:30px ;
+    padding:28px ;
 }
 .t2 {   
     position: relative;
-    top: 780px;
-    left: 200px;
+    top: 795px;
+    left: 170px;
     transform: translate(-50%, -50%);
     height: 190px;
     width: 100px;
