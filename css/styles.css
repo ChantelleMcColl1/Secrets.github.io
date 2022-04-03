@@ -54,8 +54,8 @@ a:hover, a:active {
 .t1 {
     
     position: relative;
-    top: 583px;
-    left: 185px;
+    top: 578px;
+    left: 189px;
     transform: translate(-50%, -50%);
     height: 190px;
     width: 150px;
@@ -71,7 +71,7 @@ a:hover, a:active {
      
     position: relative;
     top: 888px;
-    left: 160px;
+    left: 140px;
     transform: translate(-50%, -50%);
     height: 180px;
     width: 100px;
@@ -85,7 +85,7 @@ a:hover, a:active {
     
     position: relative;
     top: 324px;
-    left: 494px;
+    left: 490px;
     transform: translate(-50%, -50%);
     height: 275px;
     width: 100px;
@@ -100,7 +100,7 @@ a:hover, a:active {
 }
 .t4 { 
     position: relative;
-    top: 640px;
+    top: 637px;
     left: 765px;
     transform: translate(-50%, -50%);
     height: 195px;
