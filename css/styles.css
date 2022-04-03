@@ -29,6 +29,7 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
     position: relative;
+    margin-top: 10px;
     left: 50%;
     transform: translateX(-50%);
 }
