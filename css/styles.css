@@ -89,8 +89,8 @@ a:hover, a:active {
 }
 .t4 { 
     position: relative;
-    top: 400px;
-    left: 420px;
+    top: 600px;
+    left: 800px;
     transform: translate(-50%, -50%);
     height: 200px;
     width: 100px;
