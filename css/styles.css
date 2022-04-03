@@ -35,7 +35,7 @@ margin-right: auto }
 a:link, a:visited {
     background-color: #e9af62;
     color: rgb(58, 57, 57);
-    padding: 14px 25px;
+    padding: 12px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -44,7 +44,7 @@ a:link, a:visited {
     left: 50%;
     transform: translateX(-50%);
     font-family: 'Teko', sans-serif;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 a:hover, a:active {
