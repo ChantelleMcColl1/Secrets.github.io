@@ -44,6 +44,7 @@ a:link, a:visited {
     left: 50%;
     transform: translateX(-50%);
     font-family: 'Teko', sans-serif;
+    font-size: 14px;
 }
 
 a:hover, a:active {
