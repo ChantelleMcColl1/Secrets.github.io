@@ -100,10 +100,10 @@ a:hover, a:active {
 }
 .t5 {
     position: relative;
-    top: 1010px;
-    left: 305px;
-        height: 265px;
-        width: 115px;
+    top: 1000px;
+    left: 295px;
+        height: 255px;
+        width: 110px;
         border-radius:50%;
         background-color: rgb(255, 255, 255);
         padding:30px;
