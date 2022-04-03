@@ -101,9 +101,9 @@ a:hover, a:active {
 .t5 {
     position: relative;
     top: 1000px;
-    left: 300px;
-        height: 300px;
-        width: 130px;
+    left: 330px;
+        height: 295px;
+        width: 135px;
         border-radius:50%;
         background-color: rgb(255, 255, 255);
 }
