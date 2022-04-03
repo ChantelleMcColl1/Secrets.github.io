@@ -90,11 +90,20 @@ a:hover, a:active {
 .t4 { 
     position: relative;
     top: 710px;
-    left: 770px;
+    left: 765px;
     transform: translate(-50%, -50%);
     height: 200px;
     width: 115px;
     border-radius: 150px 150px 0px 0px;
     background-color: rgb(255, 251, 251);
     padding:20px ;
+}
+.t5 {
+    position: relative;
+    top: 1000px;
+    left: 150px;
+        height: 200px;
+        width: 130px;
+        border-radius:50%;
+        background-color: rgb(255, 255, 255);
 }
