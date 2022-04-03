@@ -89,7 +89,7 @@ a:hover, a:active {
 }
 .t4 { 
     position: relative;
-    top: 710px;
+    top: 650px;
     left: 765px;
     transform: translate(-50%, -50%);
     height: 200px;
@@ -102,6 +102,16 @@ a:hover, a:active {
     position: relative;
     top: 1010px;
     left: 315px;
+        height: 295px;
+        width: 135px;
+        border-radius:50%;
+        background-color: rgb(255, 255, 255);
+}
+
+.t6 {
+    position: relative;
+    top: 300px;
+    left: 100px;
         height: 295px;
         width: 135px;
         border-radius:50%;
