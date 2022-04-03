@@ -106,12 +106,13 @@ a:hover, a:active {
         width: 135px;
         border-radius:50%;
         background-color: rgb(255, 255, 255);
+        padding:10px
 }
 
 .t6 {
     position: relative;
     top: 150px;
-    left: 10px;
+    left: -10px;
         height: 240px;
         width: 135px;
         border-radius:50%;
