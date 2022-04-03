@@ -54,7 +54,7 @@ a:hover, a:active {
 .t1 {
     
     position: relative;
-    top: 594px;
+    top: 590px;
     left: 183px;
     transform: translate(-50%, -50%);
     height: 190px;
@@ -92,7 +92,7 @@ a:hover, a:active {
     padding-top: 40px;
     padding-right: 5px;
     padding-bottom: 0px;
-    padding-left: 38px;;
+    padding-left: 38px;
 
 }
 .t4 { 
@@ -104,7 +104,10 @@ a:hover, a:active {
     width: 120px;
     border-radius: 150px 150px 0px 0px;
     background-color: rgb(255, 251, 251);
-    padding:20px ;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 0px;
+    padding-left: 15px;
 }
 .t5 {
     position: relative;
@@ -114,7 +117,10 @@ a:hover, a:active {
         width: 105px;
         border-radius:50%;
         background-color: rgb(255, 255, 255);
-        padding:30px;
+        padding-top: 40px;
+        padding-right: 5px;
+        padding-bottom: 0px;
+        padding-left: 38px;
 }
 
 .t6 {
@@ -125,7 +131,10 @@ a:hover, a:active {
         width: 110px;
         border-radius:50%;
         background-color: rgb(255, 255, 255);
-        padding: 25px;
+        padding-top: 35px;
+        padding-right: 25px;
+        padding-bottom: 30px;
+        padding-left: 25px;
 }
 
 .fade-in {
