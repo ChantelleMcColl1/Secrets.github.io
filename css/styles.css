@@ -39,11 +39,12 @@ a:hover, a:active {
   }
 .t1 {
     position: relative;
-    top: 586px;
+    top: 583px;
     left: 183px;
     transform: translate(-50%, -50%);
     height: 190px;
     width: 150px;
+    text-align: center;
     border-radius: 150px 150px 0 0;
     background-color: rgb(255, 255, 255);
     padding:28px ;
@@ -55,6 +56,7 @@ a:hover, a:active {
     transform: translate(-50%, -50%);
     height: 180px;
     width: 100px;
+    text-align: center;
     border-radius: 0px 0px 150px 150px;
     background-color: rgb(255, 255, 255);
     padding:20px ;
@@ -67,6 +69,7 @@ a:hover, a:active {
     transform: translate(-50%, -50%);
     height: 270px;
     width: 100px;
+    text-align: center;
     border-radius: 150px 0px 0px 0px;
     background-color: rgb(255, 255, 255);
     padding:35px ;
